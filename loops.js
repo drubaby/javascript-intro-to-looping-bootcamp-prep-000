@@ -23,6 +23,6 @@ function maybeTrue() {
 
 function doWhileLoop(theArray){
   do {
-    return theArray--
+    return theArray--;
   }
-} while (maybeTrue());
+} while (theArray.length > 0 && maybeTrue())
