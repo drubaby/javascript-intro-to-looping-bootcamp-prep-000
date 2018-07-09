@@ -12,7 +12,7 @@ return theArray
 
 function whileLoop(theNumber){
   while (theNumber > 0){
-    console.log(--countdown)
+    console.log(--theNumber)
   }
   return 'done'
 }
