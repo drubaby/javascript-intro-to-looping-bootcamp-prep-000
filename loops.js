@@ -20,9 +20,3 @@ function whileLoop(theNumber){
 function maybeTrue() {
   return Math.random() >= 0.5
 }
-
-function doWhileLoop(theArray){
-  do {
-    return theArray--
-  }
-} while (theArray.length > 0 && maybeTrue())
