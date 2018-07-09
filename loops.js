@@ -25,4 +25,5 @@ function doWhileLoop(theArray){
   do {
     return theArray--;
   }
-} while (theArray.length > 0 && maybeTrue())
+ while (theArray.length > 0 && maybeTrue())
+}
