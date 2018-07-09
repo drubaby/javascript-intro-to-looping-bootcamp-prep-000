@@ -21,4 +21,4 @@ function doWhileLoop(theArray){
   do {
     
   }
-} while
+} while ()
