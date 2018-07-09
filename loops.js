@@ -17,8 +17,10 @@ function whileLoop(theNumber){
   return 'done'
 }
 
+
+
 function doWhileLoop(theArray){
   do {
     
   }
-} while ()
+} while (maybeTrue())
